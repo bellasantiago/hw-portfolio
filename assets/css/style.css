@@ -1,0 +1,16 @@
+.nav-h1 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.nav-h2 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+}
+
+body {
+    background-image: url(../images/color-background.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

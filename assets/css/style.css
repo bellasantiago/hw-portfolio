@@ -14,8 +14,9 @@
 body {
     background-image: url(../images/color-background.jpeg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     font-family: 'Quicksand', sans-serif;
+    back
     color: rgb(44, 44, 44);
   }
 

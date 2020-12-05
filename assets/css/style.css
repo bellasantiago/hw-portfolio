@@ -1,3 +1,5 @@
+
+
 .nav-h1 {
     font-family: 'Quicksand', sans-serif;
     font-weight: bold;
@@ -21,6 +23,10 @@ body {
 
 .footer-col {
     text-align: center;
-    background-color: #ffffff;
+    background-color: #f8f9fa;
     font-family: 'Quicksand', sans-serif;
+}
+
+.jumbo-style {
+    background-color: rgba(255, 255, 255, 0.753);
 }

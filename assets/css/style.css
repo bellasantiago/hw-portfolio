@@ -23,7 +23,14 @@ body {
     background-color: rgba(255, 255, 255, 0.753);
 }
 
-  .jumbo-main h1 {
+.jumbo-main h1 {
+    font-family: 'Ruthie', cursive;
+    text-align: center;
+    line-height: 50px;
+    font-size: 100px;
+  }
+
+  .jumbo-style h1 {
     font-family: 'Ruthie', cursive;
     text-align: center;
     line-height: 50px;

@@ -15,6 +15,10 @@ body {
     background-size: cover;
   }
 
+  .contact-text { 
+      font-family: 'Quicksand', sans-serif;
+  }
+
 .footer-col {
     text-align: center;
     background-color: #ffffff;

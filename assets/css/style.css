@@ -1,32 +1,43 @@
-
-
 .nav-h1 {
     font-family: 'Quicksand', sans-serif;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 300%;
+    color: rgb(44, 44, 44);
 }
 
 .nav-h2 {
     font-family: 'Quicksand', sans-serif;
-    font-size: 25px;
+    font-size: 150%;
+    color: rgb(44, 44, 44);
 }
 
 body {
     background-image: url(../images/color-background.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(44, 44, 44);
   }
 
-  .contact-text { 
-      font-family: 'Quicksand', sans-serif;
+.jumbo-main {
+    background-color: rgba(255, 255, 255, 0.753);
+}
+
+  .jumbo-main h1 {
+    font-family: 'Ruthie', cursive;
+    text-align: center;
+    line-height: 50px;
+    font-size: 100px;
   }
+
 
 .footer-col {
     text-align: center;
     background-color: #f8f9fa;
-    font-family: 'Quicksand', sans-serif;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: rgb(44, 44, 44);
 }
-
 .jumbo-style {
     background-color: rgba(255, 255, 255, 0.753);
 }

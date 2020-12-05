@@ -1,14 +1,14 @@
 body {
     background-image: url(../images/color-background.jpeg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     font-family: 'Quicksand', sans-serif;
     color: rgb(44, 44, 44);
   }
 
 .nav-h1 {
     font-weight: bold;
-    font-size: 300%;
+    font-size: 250%;
     color: rgb(44, 44, 44);
 }
 
@@ -27,6 +27,9 @@ body {
     line-height: 50px;
     font-size: 100px;
   }
+  .jumbo-style {
+    background-color: rgba(255, 255, 255, 0.753);
+}
 
   .jumbo-style h1 {
     font-family: 'Ruthie', cursive;
@@ -35,14 +38,10 @@ body {
     font-size: 100px;
   }
 
-
 .footer-col {
     text-align: center;
     background-color: #f8f9fa;
     padding-top: 15px;
     padding-bottom: 15px;
     color: rgb(44, 44, 44);
-}
-.jumbo-style {
-    background-color: rgba(255, 255, 255, 0.753);
 }
